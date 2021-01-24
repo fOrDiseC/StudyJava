@@ -10,11 +10,11 @@ public class CurrencyFormatter {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
-        CurrencyFormatter.current_format(number);
+        CurrencyFormatter.currencyFormat(number);
     }
 
 
-    public static void current_format(double payment) {
+    public static void currencyFormat(double payment) {
         System.out.println(payment);
 
         NumberFormat us = NumberFormat.getInstance(Locale.US);
