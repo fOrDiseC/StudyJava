@@ -14,12 +14,7 @@ public class Stringmanipulation {
         String newA =A.substring(0,1).toUpperCase()+A.substring(1);
         String newB =B.substring(0,1).toUpperCase()+B.substring(1);
         System.out.println(newA+" "+newB);
-
-
-
-
-
-
+        
 
     }
 

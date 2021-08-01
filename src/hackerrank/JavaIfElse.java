@@ -1,4 +1,4 @@
-package JavaifElse;
+package hackerrank;
 
 public class JavaIfElse {
 

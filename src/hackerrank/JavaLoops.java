@@ -1,4 +1,4 @@
-package JavaLoops;
+package hackerrank;
 
 public class JavaLoops {
 

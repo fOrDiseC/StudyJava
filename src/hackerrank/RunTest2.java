@@ -1,5 +1,5 @@
+package hackerrank;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class RunTest2 {
 
