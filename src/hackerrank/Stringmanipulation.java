@@ -21,7 +21,7 @@ public class Stringmanipulation {
     System.out.println("Емкость: " + strBuffer.capacity()); // 42
     System.out.println("Длина: " + strBuffer.length()); // 4
     StringBuilder strBild =new StringBuilder(str);
-    strBild.insert(20, );
+    
         
 
 
